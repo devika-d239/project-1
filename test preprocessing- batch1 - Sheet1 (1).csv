@@ -1,0 +1,11 @@
+id,email,Name,Age,Salary,Department
+1,,Alice,25,50000,HR
+2,,Bob,30,60000,IT
+3,,Charlie,35,70000,IT
+4,rtwdf@gmail.com,David,40,80000,Finance
+5,ggchdgc.gmail.com,Eve,,90000,HR
+1,,Alice,25,50000,HR
+7,,Frank,28,,IT
+8,,Grace,33,72000,
+9,,Heidi,,68000,Finance
+10,,Ivan,45,85000,IT
